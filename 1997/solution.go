@@ -1,3 +1,4 @@
+package leetcode
 /*
 1997. First Day Where You Have Been in All the Rooms
 dynamic programming solution:
